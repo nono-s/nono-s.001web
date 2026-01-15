@@ -20,6 +20,13 @@ body {
     margin-bottom: 100px;
 }
 
+.svgIcons {
+    margin: 1.5rem;
+    width: 64px;
+    height: 64px;
+    color: #fefae0;
+}
+
 #mainNavbar {
     font-size: 1.5rem;
 }
@@ -45,13 +52,6 @@ body {
 
 #headingGroup span {
     color: #c5283d;
-}
-
-#svgIcons {
-    margin: 1.5rem;
-    width: 64px;
-    height: 64px;
-    color: #fefae0;
 }
 
 .navbar.scrolled {
